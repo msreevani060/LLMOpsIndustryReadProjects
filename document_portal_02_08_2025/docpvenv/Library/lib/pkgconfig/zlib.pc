@@ -1,0 +1,13 @@
+prefix=D:/Projects/LLMopsProjects26072025/Practice/document_portal_02_08_2025/docpvenv/Library
+exec_prefix=D:/Projects/LLMopsProjects26072025/Practice/document_portal_02_08_2025/docpvenv/Library
+libdir=D:/Projects/LLMopsProjects26072025/Practice/document_portal_02_08_2025/docpvenv/Library/lib
+sharedlibdir=D:/Projects/LLMopsProjects26072025/Practice/document_portal_02_08_2025/docpvenv/Library/lib
+includedir=D:/Projects/LLMopsProjects26072025/Practice/document_portal_02_08_2025/docpvenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
