@@ -1,0 +1,12 @@
+prefix=d:/Projects/LLMopsProjects26072025/Practice/LLMOpsIndustryReadProjects/document_portal_02_08_2025/docpvenv/Library
+exec_prefix=d:/Projects/LLMopsProjects26072025/Practice/LLMOpsIndustryReadProjects/document_portal_02_08_2025/docpvenv/Library
+libdir=d:/Projects/LLMopsProjects26072025/Practice/LLMOpsIndustryReadProjects/document_portal_02_08_2025/docpvenv/Library/lib
+includedir=d:/Projects/LLMopsProjects26072025/Practice/LLMOpsIndustryReadProjects/document_portal_02_08_2025/docpvenv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 

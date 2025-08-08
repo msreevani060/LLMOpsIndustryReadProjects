@@ -2,6 +2,5 @@ langchain
 python-dotenv
 ipykernel
 langchain_groq
-langchain_openai
 
 -e .

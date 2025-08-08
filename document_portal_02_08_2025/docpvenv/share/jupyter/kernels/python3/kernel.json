@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "d:/Projects/LLMopsProjects26072025/Practice/LLMOpsIndustryReadProjects/document_portal_02_08_2025/docpvenv\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
